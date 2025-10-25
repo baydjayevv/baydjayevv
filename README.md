@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Kod yozilayotgangina GIF: yagona, aniq va professional -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Typing code GIF">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRlbm5hdmJteHF4YzAyNjdxMTUxczQ0eGl1ZW5rMm41dno3dW5wNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/YYW0hHizzIOrlhimPG/giphy.gif" alt="Typing code GIF">
 </p>
 
 ---

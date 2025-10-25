@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👨‍💻 Tony — Software Engineer</h1>
+<h1 align="center">👨‍💻 Nurxan Baydjayev — Software Engineer</h1>
 <h3 align="center">Clean code. Fast systems. Reliable delivery.</h3>
 
 <p align="center">

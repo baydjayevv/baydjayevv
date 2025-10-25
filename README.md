@@ -1,54 +1,53 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm Tony</h1>
-<h3 align="center">Full-Stack Developer | Code. Build. Repeat.</h3>
+<h1 align="center">👨‍💻 Tony — Software Engineer</h1>
+<h3 align="center">Clean code. Fast systems. Reliable delivery.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8/giphy.gif" width="600" alt="Coding GIF">
+  <!-- Kod yozilayotgangina GIF: yagona, aniq va professional -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="680" alt="Typing code GIF">
 </p>
 
 ---
 
-### 💡 About Me
-I'm a developer who loves **clean code**, **fast systems**, and **smart automation**.  
-Currently focused on building modern web apps and Telegram bots.
+### 💡 About
+I'm a focused developer building high-performance web apps and automation tools. I prefer simplicity, reliability, and clean architecture.
 
-- 🔭 Working on: `Channel Manager Bot`
-- 🧩 Stack: JavaScript, React, Node.js, Python
-- 💬 Ask me about: web automation, APIs, bot development
-- ⚡ Motto: *“Discipline beats motivation.”*
+- 🔭 Currently: Channel Manager Bot  
+- 🧩 Stack: JavaScript, TypeScript, Node.js, React, Python  
+- ⚡ Motto: *Keep it simple. Keep it fast.*
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,tailwind,mongodb,git,github,docker,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,mongodb,docker,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Selected Projects
+- **Channel Manager Bot** — Telegram channel & group automation (Python, Aiogram)  
+- **Dev Dashboard** — Real-time analytics dashboard (React, TailwindCSS)  
+- **Task Automator** — CLI task automation (Node.js)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ### 🧠 Philosophy
-> “Talk is cheap. Show me the code.”  
-> — Linus Torvalds
+> “Talk is cheap. Show me the code.” — Linus Torvalds
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Contact
 <p align="center">
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=800&lines=Focus.+Code.+Ship.+Repeat.;Always+learning,+always+improving.">
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>

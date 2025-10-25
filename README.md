@@ -47,6 +47,6 @@ I'm a focused developer building high-performance web apps and automation tools.
 
 ### 🔗 Contact
 <p align="center">
-  <a href="nurxan314@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://t.me/@baydjayevv](https://t.me/baydjayevv)"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:nurxan314@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/baydjayevv"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
